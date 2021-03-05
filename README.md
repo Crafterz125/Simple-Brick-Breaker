@@ -1,2 +1,2 @@
 # Simple-Brick-Breaker
-Its a simple brick breaker
+Its a simple brick breaker.
